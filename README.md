@@ -18,7 +18,7 @@ The development of a network of economic active people both via this website and
 Offering specific non-profit services and assistance for members.
 
 
-##Project
+#Project
 
 ###Goal
 
