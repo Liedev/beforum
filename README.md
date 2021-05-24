@@ -18,7 +18,7 @@ Offering specific non-profit services and assistance for members.
 ## Project
 
 The goal of the project was to deliver a static website to a client. 
-Togheter with my fellow students <a href="http://www.stijnbeckers.digital/" target="_blank">Stijn</a> and <a href="https://jarnopeeters.be/" target="_blank">Jarno</a> we created a one pager with some bootstrap integration.
+Together with my fellow students <a href="http://www.stijnbeckers.digital/" target="_blank">Stijn</a> and <a href="https://jarnopeeters.be/" target="_blank">Jarno</a> we created a one pager with some bootstrap integration.
 From all the students our project was selected for publication.
 <a href="http://beforum.be/" target="_blank">Check the site</a>
 
