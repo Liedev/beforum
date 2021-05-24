@@ -1,15 +1,15 @@
-H1 School Project Beforum
+#School Project Beforum
 ![](https://github.com/Liedev/beforum/blob/main/beforum.JPG)
 
 **Table of Contents**
 [TOCM]
 
-H2 Language
+#Language
 
 The site is delivered in 2 languages. English and Dutch
 The project documentation is in dutch
 
-H2 What Is Beforum
+##What Is Beforum
 
 The <a href="http://beforum.be/" target="_blank">BELGIAN ECONOMIC FORUM</a> or abbreviated BEFORUM exists under the form of a non-profit association and was set up for the following reasons:
 
