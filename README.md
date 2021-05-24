@@ -3,8 +3,8 @@
 
 ## Language
 
-The site is delivered in 2 languages. English and Dutch<br />
-.The project documentation is in dutch
+The site is delivered in 2 languages. English and Dutch.<br />
+The project documentation is in dutch
 
 ## What Is Beforum
 
